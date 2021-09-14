@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MustaphaIT
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on softawre develoment
+- 💞️ I’m looking to collaborate on softawre development
 
 <!---
 MustaphaIT/MustaphaIT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
